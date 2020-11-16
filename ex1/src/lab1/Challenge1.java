@@ -9,7 +9,7 @@ public class Challenge1 {
                 System.out.println("fizz");
             }
             else if(i%5==0){
-                System.out.println("buzz");
+                System.out.println("buzzz");
             }
             else{
                 System.out.println(i);
